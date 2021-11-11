@@ -1,8 +1,10 @@
-# memo
 
-・gitユーザーの設定
-$git config --global user.name "<自分の名前>"
-$git config --global user.email "<自分のメアド>"
+
+## gitユーザーの設定
+```ubuntu
+git config --global user.name "<自分の名前>"
+git config --global user.email "<自分のメアド>"
+```
 
 
 ・ユーザー設定の確認
